@@ -1,3 +1,14 @@
 h1, h2 {
   font-family: Lato;
 }
+
+.users {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
+.users > * {
+  width: 49%;
+  margin: 1em 0;
+}

@@ -1,0 +1,13 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@cycle/dom": "22.4.0",
+    "@cycle/http": "15.3.0",
+    "@cycle/isolate": "5.2.0",
+    "@cycle/run": "5.4.0",
+    "ramda": "^0.26.1",
+    "xstream": "11.11.0"
+  }
+}
